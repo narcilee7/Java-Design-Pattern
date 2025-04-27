@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Factory/pom.xml" />
         <option value="$PROJECT_DIR$/Abstract-Factory/pom.xml" />
         <option value="$PROJECT_DIR$/Builder/pom.xml" />
+        <option value="$PROJECT_DIR$/Facade/pom.xml" />
       </list>
     </option>
   </component>
