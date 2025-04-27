@@ -19,3 +19,5 @@
 
 实现方式即：implements Cloneable接口，重写clone方法。这种原型模式的拷贝属于**浅拷贝**
 
+## 工厂模式
+
