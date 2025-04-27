@@ -12,6 +12,7 @@
         <module name="Composite" />
         <module name="Singleton" />
         <module name="Builder" />
+        <module name="Deractor" />
         <module name="Factory" />
       </profile>
     </annotationProcessing>
