@@ -10,6 +10,7 @@
         <module name="Abstract-Factory" />
         <module name="Prototype" />
         <module name="Singleton" />
+        <module name="Builder" />
       </profile>
     </annotationProcessing>
   </component>
