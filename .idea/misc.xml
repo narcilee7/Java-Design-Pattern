@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/Deractor/pom.xml" />
         <option value="$PROJECT_DIR$/Adapter/pom.xml" />
         <option value="$PROJECT_DIR$/Flyweight/pom.xml" />
+        <option value="$PROJECT_DIR$/Proxy/pom.xml" />
       </list>
     </option>
   </component>

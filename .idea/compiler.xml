@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Abstract-Factory" />
         <module name="Facade" />
+        <module name="Proxy" />
         <module name="Prototype" />
         <module name="Flyweight" />
         <module name="Composite" />
