@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/Abstract-Factory/pom.xml" />
         <option value="$PROJECT_DIR$/Builder/pom.xml" />
         <option value="$PROJECT_DIR$/Facade/pom.xml" />
+        <option value="$PROJECT_DIR$/Composite/pom.xml" />
       </list>
     </option>
   </component>
