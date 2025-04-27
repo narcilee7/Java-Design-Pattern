@@ -17,6 +17,7 @@
         <module name="Deractor" />
         <module name="Factory" />
         <module name="Adapter" />
+        <module name="Bridge" />
       </profile>
     </annotationProcessing>
   </component>
